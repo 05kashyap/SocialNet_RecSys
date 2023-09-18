@@ -8,6 +8,6 @@ Discrete Mathematics project - Analyse social networks with Graph Theory and bui
 
 ### Notebook 2: Describes need the shift to networkx and its usage.
 
-### Notebook 3: Visualisation and brief analysis of the twwitter data set from https://snap.stanford.edu/data/ego-Twitter.html.
+### Notebook 3: Visualisation and brief analysis of the twitter data set from https://snap.stanford.edu/data/ego-Twitter.html.
 
 ### Notebook 4: Analysis of different metrics that can be implemented to make an effective recommender system.
