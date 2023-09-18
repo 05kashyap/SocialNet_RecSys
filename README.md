@@ -1,6 +1,6 @@
 # DMS_SNGT
 
-DMS project - Analyse social networks with Graph Theory and build a user recommendation system based on graph theory concepts.
+Discrete Mathetics project - Analyse social networks with Graph Theory and build a user recommendation system based on graph theory concepts.
 
 ## Contributers: 05kashyap, Vijayvkb007, adya2004.
 
