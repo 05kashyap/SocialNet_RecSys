@@ -1,8 +1,10 @@
-# DMS_SNGT
+# Social Network User System with Graph theory
 
 Discrete Mathematics project - Analyse social networks with Graph Theory and build a user recommendation system based on graph theory concepts.
 
 ## Contributers: 05kashyap, Vijayvkb007, adya2004.
+
+### Recommender Notebook: In dev model to recommend users with 3 stages of connections.
 
 ### Notebook 1: Contains an overview of graph theory concepts with python implementation.
 
