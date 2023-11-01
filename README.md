@@ -1,5 +1,8 @@
 # Social Network User System with Graph theory
 
+stage 1: cold start(no followers)
+stage 2: 2-3 followers (less mutuals recommended)
+stage 3: 5-10 followers ( more mutual, followers of followers )
 Discrete Mathematics project - Analyse social networks with Graph Theory and build a user recommendation system based on graph theory concepts.
 
 ## Contributers: 05kashyap, Vijayvkb007, adya2004.
