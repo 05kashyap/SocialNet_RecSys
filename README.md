@@ -1,5 +1,5 @@
 # Social Network User System with Graph theory
-
+# This folder contains the notebooks used to evaluate and build our model
 stage 1: cold start(no followers)
 stage 2: 2-3 followers (less mutuals recommended)
 stage 3: 5-10 followers ( more mutual, followers of followers )
